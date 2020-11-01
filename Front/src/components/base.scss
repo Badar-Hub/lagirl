@@ -1,0 +1,18 @@
+.swiper {
+  height: auto;
+  width: 100%;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #fff;
+  }
+}
